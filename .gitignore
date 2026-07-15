@@ -1,0 +1,6 @@
+# build output
+datalogger
+*.o
+
+# simulated non-volatile flash image
+flash.bin
